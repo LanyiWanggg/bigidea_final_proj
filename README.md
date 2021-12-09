@@ -42,5 +42,13 @@ According to the second dataset analysis, the Squirrel Hill South is the top1 of
 
 In this dataset, Central Business District neighborhood has the best result for having the most art places and Squirrel Hill South is in the second place. But considering that Central Business District is not in the top5 in previous two dataset analysis, I would not add it to my waitlist. Also, Southside Slopes neighborhood is not in top5 for this time, so I deleted it from my waitlist. 
 
+## graph of weights of each dataset analysis
+     DATASET ANALYSIS       WEIGHT FOR FINAL RESULT
+Number of baseball Field ------------- 35%
+Number of playround equipment -------- 35%
+Number of art places ----------------- 30%
+
+Personally, I give the first two part higher weights since I believe they are more important to a energetic neighborhood. Also, the Squirrel Hill South is the top1 neighborhood in the first two part and second place in the third one.
+
 ## Best Overall Neighborhood
 According to the three dataset analysis, my waitlist only has Squirrel Hill South. So clearly Squirrel Hill South is the best overall neighborhood.
