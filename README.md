@@ -45,7 +45,9 @@ In this dataset, Central Business District neighborhood has the best result for 
 ## graph of weights of each dataset analysis
      DATASET ANALYSIS       WEIGHT FOR FINAL RESULT
 Number of baseball Field ------------- 35%
+
 Number of playround equipment -------- 35%
+
 Number of art places ----------------- 30%
 
 Personally, I give the first two part higher weights since I believe they are more important to a energetic neighborhood. Also, the Squirrel Hill South is the top1 neighborhood in the first two part and second place in the third one.
